@@ -1,0 +1,108 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "E9B4BC22-0BF8-449E-B48F-A05DABFD7787",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 1740,
+    "y": 321
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D3317EE9-F17E-4067-BD8D-96ED8BDB14EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97EF287E-36E8-445D-8A9C-445C20DC4B45"
+    },
+    {
+      "class": "group",
+      "id": "5A122D55-BFA0-4D5E-A6B7-483E1E5A1F19"
+    },
+    {
+      "class": "group",
+      "id": "F681C234-C6CD-40FF-885C-DB7A9762C267"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "212FA0AA-F3A8-4B81-9BC8-C0832D0F509A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B4F4DF8-5A5E-447B-958B-568552C7E169"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D341F2DA-15D0-4A24-8183-1EF26071F643"
+    }
+  ],
+  "name": "行车信息",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
