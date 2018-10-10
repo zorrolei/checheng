@@ -1,0 +1,109 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.6079225540161133,
+            "green": 0.6078033447265625,
+            "red": 0.6078922152519226
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "PingFangSC-Regular",
+              "size": 14
+            }
+          },
+          "ligature": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
+          }
+        },
+        "length": 4,
+        "location": 0
+      }
+    ],
+    "string": "输入车号"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "711528E6-6258-4DB8-A94F-EA6DF59216ED",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7DA44CE5-FAA5-4761-BA0C-BF31928CAA18",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "59514278-2A87-4959-BCB7-264602564249",
+    "height": 20,
+    "width": 56,
+    "x": 196,
+    "y": 13
+  },
+  "glyphBounds": "{{0, 3}, {56, 14}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 1,
+  "name": "输入车号",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "13D2B4AE-D907-4A9E-9A47-71BB26628D22",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "112E8242-2ACA-40DA-B189-00AEB0889728",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "089A2862-7FA1-4F18-BD19-F688466D7037",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6079225540161133,
+          "green": 0.6078033447265625,
+          "red": 0.6078922152519226
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "PingFangSC-Regular",
+            "size": 14
+          }
+        },
+        "ligature": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 0
+}

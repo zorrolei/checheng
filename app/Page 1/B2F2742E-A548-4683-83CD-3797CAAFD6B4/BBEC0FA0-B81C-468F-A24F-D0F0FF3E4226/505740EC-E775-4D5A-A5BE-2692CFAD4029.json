@@ -36,7 +36,6 @@
     "string": "南宁动车所，张三"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "505740EC-E775-4D5A-A5BE-2692CFAD4029",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -59,7 +58,6 @@
     "y": 41
   },
   "glyphBounds": "{{0, 3}, {128, 17}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -75,10 +73,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "4CE9F956-39E1-4947-AED0-DED015CE58B6",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
     "sharedObjectID": "0D2226A2-500C-4EF1-99E3-2BC430462CF5",
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "CFD06E09-8A9A-4105-81DA-41E132ED79B8",
@@ -107,8 +105,7 @@
         }
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 0
 }

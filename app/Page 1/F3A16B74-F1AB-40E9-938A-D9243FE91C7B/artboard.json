@@ -1,0 +1,93 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "F3A16B74-F1AB-40E9-938A-D9243FE91C7B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 4500,
+    "y": 1101
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "48DB317B-2BA0-4203-825B-552C211B38E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C29CA138-44D3-409D-8CE6-9045F4567190"
+    },
+    {
+      "class": "text",
+      "id": "96DD96B7-6F16-4AFB-B497-3A84756F9E88"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "484F4C88-F35C-4F41-B5EE-9DACCF8EC0ED"
+    }
+  ],
+  "name": "出乘管理-计划任务-详情-确认",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

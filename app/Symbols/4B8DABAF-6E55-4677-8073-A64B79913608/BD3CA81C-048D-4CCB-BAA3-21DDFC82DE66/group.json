@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "BD3CA81C-048D-4CCB-BAA3-21DDFC82DE66",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 24,
+    "width": 23,
+    "x": 7,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4408B669-AB09-4D37-8AB3-334EF6832853"
+    },
+    {
+      "class": "group",
+      "id": "9C29465C-DDB5-4968-B275-9990D542546A"
+    }
+  ],
+  "name": "车辆信息",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

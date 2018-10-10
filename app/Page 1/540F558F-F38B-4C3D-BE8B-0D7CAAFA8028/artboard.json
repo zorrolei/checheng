@@ -1,0 +1,117 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "540F558F-F38B-4C3D-BE8B-0D7CAAFA8028",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 1280,
+    "y": 321
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "673C9DED-99B0-4AF7-8B53-8FC6F6702B60"
+    },
+    {
+      "class": "group",
+      "id": "CC30B7C6-E3FD-40D0-B7FB-0AF078141A16"
+    },
+    {
+      "class": "group",
+      "id": "226CC48F-9A40-47CC-BC57-87CD618923E0"
+    },
+    {
+      "class": "text",
+      "id": "4C2081BF-D2BA-4F41-A4F1-8E7EF0728B3D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "379F6B60-671F-4FBB-BC88-393714C6D50D"
+    },
+    {
+      "class": "group",
+      "id": "8B7F1F12-B7A2-40D3-B3CD-6C1A80C93197"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AF29259A-7CCA-4F44-B772-1F26AA140249"
+    },
+    {
+      "class": "group",
+      "id": "2E58EF4F-861D-4129-8D5E-78F3C762AE96"
+    },
+    {
+      "class": "text",
+      "id": "62A045FE-BF9B-4C6D-9248-484680CFB34A"
+    },
+    {
+      "class": "text",
+      "id": "DC6B82FB-6DB0-4A4A-AA63-74A37BF00A85"
+    }
+  ],
+  "name": "登录",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

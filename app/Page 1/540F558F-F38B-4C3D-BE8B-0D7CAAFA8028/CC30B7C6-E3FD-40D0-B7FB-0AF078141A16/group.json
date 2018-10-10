@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "CC30B7C6-E3FD-40D0-B7FB-0AF078141A16",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 74,
+    "width": 296,
+    "x": -18,
+    "y": 541
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E7360F24-C135-4844-AC07-E4C321453766"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "762BE6E5-3011-412C-B8CB-B13CB41B5C2D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FC6D0C97-8F66-4D93-9189-941BBC972F12"
+    }
+  ],
+  "name": "火车",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

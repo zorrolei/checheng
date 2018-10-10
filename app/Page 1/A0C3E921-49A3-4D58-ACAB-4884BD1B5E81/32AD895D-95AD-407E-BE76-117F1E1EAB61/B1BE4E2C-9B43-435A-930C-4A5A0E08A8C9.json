@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B1BE4E2C-9B43-435A-930C-4A5A0E08A8C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 360,
+    "x": 0,
+    "y": 98
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "row copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D8FE0F68-788D-469A-B46E-EA8FA911EAD4_stringValue",
+      "value": "3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F7E4DE96-31B3-4187-A09A-5DF20920B09B_stringValue",
+      "value": "长沙站"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F69328E5-C3C6-4FE7-A622-D2FB95B1D7F5",
+  "verticalSpacing": 0
+}

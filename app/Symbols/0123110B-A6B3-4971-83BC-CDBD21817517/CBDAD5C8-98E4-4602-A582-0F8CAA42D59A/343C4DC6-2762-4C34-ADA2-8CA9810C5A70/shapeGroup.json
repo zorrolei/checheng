@@ -1,6 +1,5 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": 0,
   "clippingMaskMode": 0,
   "do_objectID": "343C4DC6-2762-4C34-ADA2-8CA9810C5A70",
   "exportOptions": {
@@ -22,7 +21,6 @@
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -46,7 +44,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -66,8 +64,7 @@
       }
     ],
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   },
   "windingRule": 1
 }

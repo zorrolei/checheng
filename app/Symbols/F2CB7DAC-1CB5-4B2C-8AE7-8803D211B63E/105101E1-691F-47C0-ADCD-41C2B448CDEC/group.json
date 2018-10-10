@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "105101E1-691F-47C0-ADCD-41C2B448CDEC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 30,
+    "width": 30,
+    "x": 5,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FED34C06-0B46-46A9-9401-A7E4112D9922"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "92D5A65E-F7A4-4C33-B719-274225B15A96"
+    }
+  ],
+  "name": "上报02",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

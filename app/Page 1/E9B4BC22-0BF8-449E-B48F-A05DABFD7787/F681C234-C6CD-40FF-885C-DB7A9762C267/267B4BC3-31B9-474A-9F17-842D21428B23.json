@@ -35,7 +35,6 @@
     "string": "上报信息"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
   "do_objectID": "267B4BC3-31B9-474A-9F17-842D21428B23",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,7 +55,6 @@
     "y": 60
   },
   "glyphBounds": "{{1, 3}, {55, 14}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -71,9 +69,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -100,8 +98,7 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 1
 }

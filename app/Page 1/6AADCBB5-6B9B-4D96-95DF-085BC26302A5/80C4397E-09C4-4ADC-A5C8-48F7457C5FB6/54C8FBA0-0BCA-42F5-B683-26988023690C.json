@@ -36,7 +36,6 @@
     "string": "181故障"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "54C8FBA0-0BCA-42F5-B683-26988023690C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,7 +56,6 @@
     "y": 37
   },
   "glyphBounds": "{{0, 4}, {68, 20}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -72,10 +70,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
     "sharedObjectID": "0D2226A2-500C-4EF1-99E3-2BC430462CF5",
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -103,8 +101,7 @@
         }
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 0
 }

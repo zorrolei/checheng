@@ -28,15 +28,18 @@
     ]
   },
   "meta": {
-    "appVersion": "51.2",
-    "build": 57519,
-    "version": 105
+    "appVersion": "50.2",
+    "build": 55047,
+    "version": 103
   },
   "pages": [
     "Page 1",
     "Symbols"
   ],
   "userInfo": {
+    "com.invisionlabs.getty0": {
+      "ids": "[]"
+    },
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
     }

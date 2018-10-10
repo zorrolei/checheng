@@ -1,0 +1,101 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "B8CAC108-4AEA-40E5-A171-C5A925AA98CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 1740,
+    "y": 2661
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3744C752-D9FF-4B31-98AF-11BE5A3E5F40"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC59C0F0-527F-411D-B0BD-0083B7B2392F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C5460EBD-7EF7-46D7-9ABC-02D9F4FA9916"
+    },
+    {
+      "class": "group",
+      "id": "CF310032-BE2B-4E1E-8F61-BA5C08333092"
+    },
+    {
+      "class": "text",
+      "id": "E62DD9F7-3ECD-4E94-8052-3C75A7096619"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C93DE4C1-7095-441A-B990-D348CDC3F18E"
+    }
+  ],
+  "name": "行车信息-上报信息",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

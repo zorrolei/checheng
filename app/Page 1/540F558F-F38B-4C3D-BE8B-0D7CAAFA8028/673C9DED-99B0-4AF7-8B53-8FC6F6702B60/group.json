@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "673C9DED-99B0-4AF7-8B53-8FC6F6702B60",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "12B24979-2CC3-4442-9A77-73BEDFE1761F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "335BE43C-20B2-4C4F-AFAF-B75676153639",
+    "height": 640,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8D552129-7E47-4EF5-87E7-C50A0A08ABB1"
+    },
+    {
+      "class": "group",
+      "id": "8F44A28B-2D60-4B57-8407-9BBAEA2A8471"
+    }
+  ],
+  "name": "DNA背景",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A10665DC-D76F-4924-9134-7FC4F84510E2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

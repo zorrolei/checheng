@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "66C4BDC7-DDEE-4034-8D7B-9D6309D505A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB93F416-7C4D-43B3-AAEE-E3187714857A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3726BE31-08C2-448B-8248-69C8A9261EA7",
+    "height": 44,
+    "width": 320,
+    "x": 20,
+    "y": 720
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn_normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "814A9D80-50AD-413C-81B7-4026C0727415_stringValue",
+      "value": "发送"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "71B9C5DA-1F8F-48E8-A4C5-4B6BA0B8CE70",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "873916D0-FC57-4CF5-820A-EA4E50DF8B88",
+  "verticalSpacing": 0
+}

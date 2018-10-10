@@ -1,6 +1,5 @@
 {
   "_class": "page",
-  "booleanOperation": 0,
   "do_objectID": "779cea40-cc37-11e8-a62f-03cb3e82469a",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +26,6 @@
     ]
   },
   "includeInCloudUpload": true,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -44,6 +42,98 @@
     },
     {
       "class": "artboard",
+      "id": "0EDA6C23-1176-4E07-8CEF-342945C180CE"
+    },
+    {
+      "class": "artboard",
+      "id": "CEF8AF36-FD73-4EA4-A4D8-E0B907AF5BC5"
+    },
+    {
+      "class": "artboard",
+      "id": "B8CAC108-4AEA-40E5-A171-C5A925AA98CF"
+    },
+    {
+      "class": "artboard",
+      "id": "8973B2C7-6F78-4452-8DBF-A78B5478204B"
+    },
+    {
+      "class": "artboard",
+      "id": "B964F779-EC0A-429A-8EBB-0F55E3AAD6DA"
+    },
+    {
+      "class": "artboard",
+      "id": "F3A16B74-F1AB-40E9-938A-D9243FE91C7B"
+    },
+    {
+      "class": "artboard",
+      "id": "61940A6A-BAFE-4B00-BBEC-8D4ABE2AA5DA"
+    },
+    {
+      "class": "artboard",
+      "id": "C08088D2-1D6F-4EBA-8F4A-242A937AED60"
+    },
+    {
+      "class": "artboard",
+      "id": "921AD472-BB45-4962-923E-5857A2AA0918"
+    },
+    {
+      "class": "artboard",
+      "id": "FA7FAADA-3E8B-4DAF-994A-467A2E730AE3"
+    },
+    {
+      "class": "artboard",
+      "id": "A0C3E921-49A3-4D58-ACAB-4884BD1B5E81"
+    },
+    {
+      "class": "artboard",
+      "id": "DA045CB5-4E79-4FF6-A55B-82A50A2D2E2E"
+    },
+    {
+      "class": "artboard",
+      "id": "9B8E15FD-3053-4CB2-8DA7-710A8559AC99"
+    },
+    {
+      "class": "artboard",
+      "id": "179EC8A4-5FD6-44E1-8258-402341F7CF41"
+    },
+    {
+      "class": "artboard",
+      "id": "9710C1C7-CD77-4967-A9C8-971F1CF5B9E1"
+    },
+    {
+      "class": "artboard",
+      "id": "698A93E7-1480-47A4-AC32-69400436232B"
+    },
+    {
+      "class": "artboard",
+      "id": "BA1A2419-7709-4080-8727-D08E99F729BC"
+    },
+    {
+      "class": "artboard",
+      "id": "E799B2B1-90DB-4D9D-9F21-AB31F103BD63"
+    },
+    {
+      "class": "artboard",
+      "id": "085D8EF7-EC2C-49A2-B815-A9E9E32075CE"
+    },
+    {
+      "class": "artboard",
+      "id": "B0120E17-0ABB-4CC1-8BC8-DEC85A886ACB"
+    },
+    {
+      "class": "artboard",
+      "id": "D65D25E1-C964-4668-BD4B-A12E5B25C08A"
+    },
+    {
+      "class": "artboard",
+      "id": "5A5DFE07-2358-4515-A7A6-63537711D6D4"
+    },
+    {
+      "class": "artboard",
+      "id": "7A4DFB9A-8282-49A4-9C52-4279B79D58A1"
+    },
+    {
+      "class": "artboard",
       "id": "E9B4BC22-0BF8-449E-B48F-A05DABFD7787"
     },
     {
@@ -57,6 +147,10 @@
     {
       "class": "artboard",
       "id": "28E1EA4B-15CF-4417-9EBF-0341D1FCB6AE"
+    },
+    {
+      "class": "artboard",
+      "id": "540F558F-F38B-4C3D-BE8B-0D7CAAFA8028"
     }
   ],
   "name": "Page 1",
@@ -67,10 +161,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   },
   "verticalRulerData": {
     "_class": "rulerData",
