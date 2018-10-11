@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "4021B030-8EFD-444B-9D18-8EFE2632B15C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "965BA43B-3010-414D-8D63-F0D5DA312A0F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "725F438E-740D-4424-91B6-189789688B17",
+    "height": 576,
+    "width": 284,
+    "x": 0,
+    "y": 70
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "642BA5E7-7C61-4591-B686-3C3FDF4268E9"
+    },
+    {
+      "class": "group",
+      "id": "3F9616AB-743A-488E-A42B-45CB9C8C8BB1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F7EE6D6F-A3EA-4C3B-8BB7-7FD8733A1BDD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EC58DF68-CFF7-4CC0-81F1-20944B15D4C4"
+    }
+  ],
+  "name": "phone copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "9254AFDB-B565-43C8-AC6B-CDC275023C82",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "FA249810-8DD5-457E-A087-14F62ED04028",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 19,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "AA888F87-A87E-413F-8EE2-CCF0AA9827B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "60DE40CF-AE00-46CF-BAB7-E6C19AEFE671",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "549F74E9-525D-4DB6-83BD-F030A7B78075",
+    "height": 576,
+    "width": 284,
+    "x": 194,
+    "y": 100
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CDB31D3A-3308-47BD-A870-5B3C95A6D07F"
+    },
+    {
+      "class": "group",
+      "id": "9FEE0DA9-A2C9-4C0E-AF20-92FF6C41D031"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C63DFA8C-B9E3-45D4-A77A-E66C972FA6F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A26662C-DD7B-4641-B4D2-F748FE8CD645"
+    }
+  ],
+  "name": "phone copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D2A4BCC6-4277-4879-898B-25A58CD90AB7",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "64DE2013-A107-4752-8FD7-7143FC8426C9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 19,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

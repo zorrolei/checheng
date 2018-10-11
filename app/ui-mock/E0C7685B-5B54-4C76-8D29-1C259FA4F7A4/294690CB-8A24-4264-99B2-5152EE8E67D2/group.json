@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "294690CB-8A24-4264-99B2-5152EE8E67D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6B0B237A-42C7-4B79-B2BF-9C8E3EFA7AD3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EC43425E-A3F6-4803-A8B5-F8CC26B68981",
+    "height": 507,
+    "width": 672,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3546EB23-506F-4521-AA96-01C9E427AEF3"
+    },
+    {
+      "class": "group",
+      "id": "5ED60773-BB3F-4B7E-B721-7DF971B17C80"
+    }
+  ],
+  "name": "横线",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0EEE9F85-C5AA-4EC0-B3E6-EDD50E34CF94",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

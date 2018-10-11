@@ -1,0 +1,106 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4302B1E6-147B-4AC3-927E-483FCE8BC327",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "E0C7685B-5B54-4C76-8D29-1C259FA4F7A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "965E41B5-AF94-4D5D-994F-FAF74992F51E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9C92EECC-212D-4FD9-89F2-B941A5029463",
+    "height": 507,
+    "width": 672,
+    "x": 10,
+    "y": 537
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "4CBC4F15-781B-41A4-BDF5-F8FEC0DE759C",
+    "gridSize": 90,
+    "isEnabled": false,
+    "thickGridTimes": 30
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "682C192C-0559-4FD1-B029-E694012270ED",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5B3779DF-91B3-4F86-AEAC-2CD844E952F1"
+    },
+    {
+      "class": "group",
+      "id": "294690CB-8A24-4264-99B2-5152EE8E67D2"
+    },
+    {
+      "class": "group",
+      "id": "9D75B958-6077-47D9-B9F0-37BF22CD448E"
+    },
+    {
+      "class": "text",
+      "id": "518FDFCE-73B8-4178-9FD0-D65650202C71"
+    },
+    {
+      "class": "text",
+      "id": "FFD1B45C-F69B-4E6B-8A0D-A09D78ECC55F"
+    }
+  ],
+  "name": "#8",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C6DF51FD-3400-4299-A218-F292A9309E61",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6FE7A56F-D895-409B-A3C5-704AA49B4415",
+    "guides": [
+    ]
+  }
+}

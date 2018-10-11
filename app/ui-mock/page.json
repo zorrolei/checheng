@@ -1,0 +1,77 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "do_objectID": "4914ED03-4EF0-404D-A993-438C899C89CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -1014,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "3CFC9E5C-A1BC-433B-8E09-1390B5ABD761"
+    },
+    {
+      "class": "artboard",
+      "id": "07D5FE38-77AC-4432-A82E-06587AF3E686"
+    },
+    {
+      "class": "artboard",
+      "id": "DEBEDA1A-78E9-438F-8E37-BC397A6CD668"
+    },
+    {
+      "class": "artboard",
+      "id": "F6E3AE87-1EF7-49A9-9B5E-B04DDC89E096"
+    },
+    {
+      "class": "artboard",
+      "id": "E0C7685B-5B54-4C76-8D29-1C259FA4F7A4"
+    }
+  ],
+  "name": "ui-mock",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -682,
+    "guides": [
+    ]
+  }
+}
