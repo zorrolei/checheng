@@ -30,6 +30,10 @@
     {
       "class": "shapeGroup",
       "id": "BE46B01C-B4DD-4B01-A53D-E5716BC0E4E3"
+    },
+    {
+      "class": "slice",
+      "id": "94254DB4-2DA0-44F6-88DC-E64583A99A2A"
     }
   ],
   "name": "选中",

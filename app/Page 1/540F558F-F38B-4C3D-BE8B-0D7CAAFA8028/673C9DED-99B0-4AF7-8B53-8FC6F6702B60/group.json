@@ -30,12 +30,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "slice",
+      "id": "66D59CD8-E8EE-4DA4-920F-2860299F845B"
+    },
+    {
       "class": "shapeGroup",
       "id": "8D552129-7E47-4EF5-87E7-C50A0A08ABB1"
     },
     {
       "class": "group",
       "id": "8F44A28B-2D60-4B57-8407-9BBAEA2A8471"
+    },
+    {
+      "class": "group",
+      "id": "CC30B7C6-E3FD-40D0-B7FB-0AF078141A16"
     }
   ],
   "name": "DNA背景",

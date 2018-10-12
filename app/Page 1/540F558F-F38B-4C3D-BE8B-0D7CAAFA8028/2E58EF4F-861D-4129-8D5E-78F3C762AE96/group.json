@@ -34,6 +34,10 @@
     {
       "class": "shapeGroup",
       "id": "11187409-6408-4FB9-AB56-A471C0882AFA"
+    },
+    {
+      "class": "slice",
+      "id": "86A36391-B450-4EBB-9303-01221BE284F7"
     }
   ],
   "name": "密码",

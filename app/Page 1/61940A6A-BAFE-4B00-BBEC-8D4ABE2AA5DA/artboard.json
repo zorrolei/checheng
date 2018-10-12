@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9450980392156862,
-    "green": 0.9450980392156862,
-    "red": 0.9450980392156862
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
   "booleanOperation": 0,
   "do_objectID": "61940A6A-BAFE-4B00-BBEC-8D4ABE2AA5DA",
@@ -26,8 +26,8 @@
     "x": 4960,
     "y": 1101
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,

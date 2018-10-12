@@ -26,8 +26,8 @@
     "x": 820,
     "y": 5781
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -100,7 +100,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1,
+      "highestQuality": 2,
       "included": 1
     }
   },

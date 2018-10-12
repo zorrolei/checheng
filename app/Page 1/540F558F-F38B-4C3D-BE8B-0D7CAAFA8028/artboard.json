@@ -27,7 +27,7 @@
     "y": 321
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,10 +47,6 @@
     {
       "class": "group",
       "id": "673C9DED-99B0-4AF7-8B53-8FC6F6702B60"
-    },
-    {
-      "class": "group",
-      "id": "CC30B7C6-E3FD-40D0-B7FB-0AF078141A16"
     },
     {
       "class": "group",
@@ -108,7 +104,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1,
+      "highestQuality": 2,
       "included": 1,
       "linkedLayers": [
         "3A26662C-DD7B-4641-B4D2-F748FE8CD645"

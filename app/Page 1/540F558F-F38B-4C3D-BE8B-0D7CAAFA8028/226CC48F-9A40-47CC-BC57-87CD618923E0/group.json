@@ -32,6 +32,10 @@
     {
       "class": "shapeGroup",
       "id": "F846AB1D-07F9-4071-A5BD-C1FF7668B37B"
+    },
+    {
+      "class": "slice",
+      "id": "B1792E06-DDD5-4245-85A1-C5C5A9A871C1"
     }
   ],
   "name": "登录 copy",

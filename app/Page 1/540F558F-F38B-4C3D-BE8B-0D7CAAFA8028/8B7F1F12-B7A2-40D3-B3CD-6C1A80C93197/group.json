@@ -14,7 +14,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 23.34096109839817,
+    "height": 24,
     "width": 20,
     "x": 62,
     "y": 275
@@ -30,6 +30,10 @@
     {
       "class": "shapeGroup",
       "id": "4E4604A4-ED71-47CD-A559-71211BE92840"
+    },
+    {
+      "class": "slice",
+      "id": "D8172613-2605-4ED0-8581-76A97F182E9F"
     }
   ],
   "name": "用户名",
