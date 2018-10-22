@@ -7,8 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "booleanOperation": 0,
-  "do_objectID": "30FE1435-884D-4DA8-B1BB-8BF83D88A4F6",
+  "booleanOperation": -1,
+  "do_objectID": "156D40B0-41C1-4D7A-8D71-0732041E8D65",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +23,10 @@
     "constrainProportions": false,
     "height": 640,
     "width": 360,
-    "x": 820,
-    "y": 1101
+    "x": 1740,
+    "y": 321
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,50 +46,10 @@
   "layers": [
     {
       "class": "group",
-      "id": "F085A24F-974F-4C0C-B0D5-B14CEBE765DC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "19A9BCE0-EBF3-431F-A71A-C80E74317FCB"
-    },
-    {
-      "class": "group",
-      "id": "5BBDDB9F-F849-4EA0-9660-73D9D6F6E852"
-    },
-    {
-      "class": "group",
-      "id": "9CF5F800-7EA4-4429-99FC-38061B33AE03"
-    },
-    {
-      "class": "group",
-      "id": "9ED7743A-95F2-4AF8-BAEF-B00745A89BA1"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "E57880EB-D675-4641-8771-0F1CE1644833"
-    },
-    {
-      "class": "group",
-      "id": "D11D13E2-2906-49AF-BE0E-B11B7DBE5610"
-    },
-    {
-      "class": "group",
-      "id": "6E8D8F0D-D8E5-423F-879F-9F57D592885E"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "AD9DF389-F0C4-4D90-8D55-63E369ACA721"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "DF0ABCDE-AFC5-4167-8C3C-C252719F4452"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "250F5155-5C6A-47CB-BB8A-B821E72878CC"
+      "id": "61394FBD-7A6F-47F7-BE25-68A59BF25963"
     }
   ],
-  "name": "出乘管理",
+  "name": "闪屏",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -112,12 +72,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2,
-      "included": 1,
-      "linkedLayers": [
-        "EC58DF68-CFF7-4CC0-81F1-20944B15D4C4",
-        "C79B6332-EA38-40CA-BE85-876B970E90CA"
-      ]
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

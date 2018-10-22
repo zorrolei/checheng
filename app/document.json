@@ -34,6 +34,7 @@
   },
   "pages": [
     "Page 1",
+    "icon",
     "ui-mock",
     "Symbols"
   ],
